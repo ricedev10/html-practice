@@ -5,6 +5,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+html {
+    padding: 10px;
+}
+
 #title {
     text-align: center;
     display: block;
